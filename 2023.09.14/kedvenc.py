@@ -1,0 +1,6 @@
+szi = input("Mi a kedvenc színed: ")
+sza = input("Mi a kedvenc számod: ")
+ke = input("Mi a kedvenc ételed: ")
+print(f"A kedvenc színed: {szi}")
+print(f"A kedvenc számod: {sza}")
+print(f"A kedvenc ételed: {ke}")
